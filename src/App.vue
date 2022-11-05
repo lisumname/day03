@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    测试day03
     <h1>我是App组件</h1>
     <HomeMy></HomeMy>
   </div>
